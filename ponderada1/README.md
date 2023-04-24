@@ -165,3 +165,6 @@ Pronto! Você já está preparado para começar a desenvolver seu autoestudo. Di
 ## Texto Explicativo
 
 Texto Aqui
+
+## Video aqui
+
