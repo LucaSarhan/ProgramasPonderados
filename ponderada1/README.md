@@ -167,4 +167,4 @@ Pronto! Você já está preparado para começar a desenvolver seu autoestudo. Di
 Texto Aqui
 
 ## Video 
-<img src=""></a>
+<img src="https://github.com/LucaSarhan/ProgramasPonderados/blob/main/ponderada1/WhatsApp%20Video%202023-04-24%20at%2020.56.17.mp4"></a>
