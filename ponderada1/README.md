@@ -161,3 +161,5 @@ Ok, agora basta rodar o script como se fosse um executável qualquer em Linux:
 ```
 
 Pronto! Você já está preparado para começar a desenvolver seu autoestudo. Divirta-se! =D
+
+#### Texto Explicativo
