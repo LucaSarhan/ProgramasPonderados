@@ -11,11 +11,6 @@ class TurtleController(Node):
         self.publisher_ = self.create_publisher(Twist, 'turtle1/cmd_vel', 10)
         self.twist_msg_ = Twist()
 
-    #def move_turtle(self):
-        #self.twist_msg_.linear.x = 1.0
-        #self.twist_msg_.angular.z = 0.5
-        #self.publisher_.publish(self.twist_msg_)
-
     def move_turtle2(self):
         self.twist_msg_.linear.x = 0.0
         self.twist_msg_.angular.z = 2.0
